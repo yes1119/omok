@@ -1,2 +1,2 @@
 # omok
-오목ai ==>minimax적용예정
+오목ai ==>alphabeta 복구예정
